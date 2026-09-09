@@ -1,5 +1,5 @@
 {
-  "run_count": 354,
+  "run_count": 355,
   "last_daily": "2026-09-09",
   "cross_alerted": [],
   "buy_accum": {
@@ -109,6 +109,72 @@
       "note": "",
       "value": 2993.0827516026,
       "unit": 8.953724424695325e-05
+    },
+    "solana:C1d7cNTB6amijswxTD3J43vaMyLQUt66ynCTkRD2pump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
+      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
+      "chain": "solana",
+      "contract": "C1d7cNTB6amijswxTD3J43vaMyLQUt66ynCTkRD2pump",
+      "sym": "fries",
+      "amount": 34309175.293472,
+      "usd": 0.0,
+      "counter_usd": 2942.8140853816844,
+      "n": 1,
+      "other": {
+        "SOL": 0.001766907,
+        "USDC": 1500.0,
+        "MCDx": 5.76824348
+      },
+      "first": 1788985991,
+      "last": 1788985991,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 2942.8140853816844,
+      "unit": 8.577338453080255e-05
+    },
+    "solana:pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
+      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
+      "chain": "solana",
+      "contract": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+      "sym": "PUMP",
+      "amount": 275733.13,
+      "usd": 1189.5127228200001,
+      "counter_usd": 2389.6922704946246,
+      "n": 1,
+      "other": {
+        "SOL": 0.001741575,
+        "USDC": 1200.0,
+        "PUMP": 275733.13
+      },
+      "first": 1788986128,
+      "last": 1788986128,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 2389.6922704946246,
+      "unit": 0.008666685321762476
+    },
+    "solana:GJnF3R7QXZdquYEeCFUE5YJuSkR9wdL9B3ojE5bNpump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
+      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
+      "chain": "solana",
+      "contract": "GJnF3R7QXZdquYEeCFUE5YJuSkR9wdL9B3ojE5bNpump",
+      "sym": "Cupsey",
+      "amount": 30739112.041039,
+      "usd": 5490.005410529566,
+      "counter_usd": 2389.6922704946246,
+      "n": 1,
+      "other": {
+        "SOL": 0.001741575,
+        "USDC": 1200.0,
+        "PUMP": 275733.13
+      },
+      "first": 1788986128,
+      "last": 1788986128,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 2389.6922704946246,
+      "unit": 7.774109633694713e-05
     }
   },
   "last_daily_cut": 1788966000
