@@ -1,49 +1,8 @@
 {
-  "run_count": 500,
+  "run_count": 501,
   "last_daily": "2026-09-10",
   "cross_alerted": [],
   "buy_accum": {
-    "solana:4oTJ3dbekdtbUSGtwpcEPtDfU9t6UmDDE1QbzUiPpump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
-      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
-      "chain": "solana",
-      "contract": "4oTJ3dbekdtbUSGtwpcEPtDfU9t6UmDDE1QbzUiPpump",
-      "sym": "BATON",
-      "amount": 14287900.476487,
-      "usd": 10318.72172411891,
-      "counter_usd": 3002.6869232858,
-      "n": 1,
-      "other": {
-        "SOL": 14.566565755000001,
-        "USDC": 1500.0
-      },
-      "first": 1788982992,
-      "last": 1788982992,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 3002.6869232858,
-      "unit": 0.0002101559237641105
-    },
-    "solana:8CuqqGpwmByoSmc2iEAUozZHMsWgya7afqmos5MhPwcn:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
-      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
-      "chain": "solana",
-      "contract": "8CuqqGpwmByoSmc2iEAUozZHMsWgya7afqmos5MhPwcn",
-      "sym": "Stonks",
-      "amount": 20083018.436246,
-      "usd": 0.0,
-      "counter_usd": 1000.0,
-      "n": 1,
-      "other": {
-        "USDC": 1000.0
-      },
-      "first": 1788982969,
-      "last": 1788982969,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 1000.0,
-      "unit": 4.979331185571147e-05
-    },
     "solana:41UrTGwAokUi5y9qXvHtG82fYsHgCnQE7oFtLhYRwYMP:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
       "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
       "chain": "solana",
