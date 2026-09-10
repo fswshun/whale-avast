@@ -1,30 +1,8 @@
 {
-  "run_count": 501,
+  "run_count": 502,
   "last_daily": "2026-09-10",
   "cross_alerted": [],
   "buy_accum": {
-    "solana:41UrTGwAokUi5y9qXvHtG82fYsHgCnQE7oFtLhYRwYMP:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
-      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
-      "chain": "solana",
-      "contract": "41UrTGwAokUi5y9qXvHtG82fYsHgCnQE7oFtLhYRwYMP",
-      "sym": "baton",
-      "amount": 27033469.867533,
-      "usd": 0.0,
-      "counter_usd": 3999.5670356543496,
-      "n": 2,
-      "other": {
-        "SOL": 0.001766907,
-        "USDC": 2500.0,
-        "SPYx": 1.95331654
-      },
-      "first": 1788983838,
-      "last": 1788984037,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 3999.5670356543496,
-      "unit": 0.00014794871155100222
-    },
     "solana:41uW6XxoPRCHkkEtocsdE4cX6u5q3MG8CAsBP675pump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
       "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
       "chain": "solana",
@@ -153,6 +131,26 @@
       "note": "09-03T17:09 3.984e+06 HARAM\u300109-03T17:09 3.984e+06 HARAM\u300109-03T17:23 6.923 S5B",
       "value": 1340.6162502159004,
       "unit": 6.78299167002201e-05
+    },
+    "solana:2QMVV1tYsNUXu6AdAEdJbJhkYc4pwFqNPEZxF3vX9AVu:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
+      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
+      "chain": "solana",
+      "contract": "2QMVV1tYsNUXu6AdAEdJbJhkYc4pwFqNPEZxF3vX9AVu",
+      "sym": "COLLECTIBLE",
+      "amount": 15286252.257141,
+      "usd": 6528.75833902492,
+      "counter_usd": 3500.0,
+      "n": 1,
+      "other": {
+        "USDC": 3500.0
+      },
+      "first": 1789070373,
+      "last": 1789070373,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 3500.0,
+      "unit": 0.00022896390437132611
     }
   },
   "last_daily_cut": 1789052400
