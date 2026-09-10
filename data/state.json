@@ -1,5 +1,5 @@
 {
-  "run_count": 519,
+  "run_count": 520,
   "last_daily": "2026-09-10",
   "cross_alerted": [],
   "buy_accum": {
@@ -20,6 +20,24 @@
       "note": "09-03T17:09 3.984e+06 HARAM\u300109-03T17:09 3.984e+06 HARAM\u300109-03T17:23 6.923 S5B",
       "value": 1340.6162502159004,
       "unit": 6.78299167002201e-05
+    },
+    "robinhood:0x8b3e3ba1a55b939f93f0a205f94520b9468e17f8:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
+      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
+      "chain": "robinhood",
+      "contract": "0x8b3e3ba1a55b939f93f0a205f94520b9468e17f8",
+      "sym": "RIDE",
+      "amount": 1696018.8199363519,
+      "usd": 2900.1921820911616,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789080515,
+      "last": 1789080515,
+      "runs": 1,
+      "funding": 133653.04434126138,
+      "note": "09-03T23:40 1.644e+07 ASTEROID\u300109-04T08:39 1.197e+07 TAM\u300109-04T11:14 3.346e+06 ASTEROID",
+      "value": 2900.1921820911616,
+      "unit": 0.00171
     }
   },
   "last_daily_cut": 1789052400
