@@ -1,5 +1,5 @@
 {
-  "run_count": 636,
+  "run_count": 637,
   "last_daily": "2026-09-11",
   "cross_alerted": [],
   "buy_accum": {
@@ -38,6 +38,24 @@
       "note": "09-04T19:37 9.671 S5B\u300109-05T01:07 4.187 S5B\u300109-05T01:07 1.946e+07 VenusCoin",
       "value": 2411.638299195237,
       "unit": 0.0006843000000000001
+    },
+    "robinhood:0x82dd5073bd5be7f013a9973c1db8fac7def31a5b:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
+      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
+      "chain": "robinhood",
+      "contract": "0x82dd5073bd5be7f013a9973c1db8fac7def31a5b",
+      "sym": "INVESTOR",
+      "amount": 511411823.6507967,
+      "usd": 872.97998297191,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789148356,
+      "last": 1789148356,
+      "runs": 1,
+      "funding": 113426.79680687744,
+      "note": "09-04T19:37 9.671 S5B\u300109-05T01:07 4.187 S5B\u300109-05T01:07 1.946e+07 VenusCoin",
+      "value": 872.97998297191,
+      "unit": 1.707e-06
     }
   },
   "last_daily_cut": 1789138800
