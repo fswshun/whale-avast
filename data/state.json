@@ -1,5 +1,5 @@
 {
-  "run_count": 658,
+  "run_count": 659,
   "last_daily": "2026-09-11",
   "cross_alerted": [],
   "buy_accum": {
@@ -56,6 +56,26 @@
       "note": "09-04T19:37 9.671 S5B\u300109-05T01:07 4.187 S5B\u300109-05T01:07 1.946e+07 VenusCoin",
       "value": 872.97998297191,
       "unit": 1.707e-06
+    },
+    "solana:HmUksYWTdQ8LahsR31q5pYrAvxAw6jj2uoLoXt6wJukR:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
+      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
+      "chain": "solana",
+      "contract": "HmUksYWTdQ8LahsR31q5pYrAvxAw6jj2uoLoXt6wJukR",
+      "sym": "Gambull",
+      "amount": 27581012.763289,
+      "usd": 875.1455349791601,
+      "counter_usd": 1000.0,
+      "n": 1,
+      "other": {
+        "USDC": 1000.0
+      },
+      "first": 1789160138,
+      "last": 1789160138,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 1000.0,
+      "unit": 3.625682670112188e-05
     }
   },
   "last_daily_cut": 1789138800
