@@ -1,26 +1,8 @@
 {
-  "run_count": 626,
+  "run_count": 627,
   "last_daily": "2026-09-11",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0xa157a4f71756751eca4234eeda9dd8782f437777:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
-      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
-      "chain": "bsc",
-      "contract": "0xa157a4f71756751eca4234eeda9dd8782f437777",
-      "sym": "\u5149\u6e90",
-      "amount": 19764380.017461386,
-      "usd": 1340.6162502159004,
-      "counter_usd": 0.0,
-      "n": 2,
-      "other": {},
-      "first": 1789055256,
-      "last": 1789055441,
-      "runs": 2,
-      "funding": 272634.7711659783,
-      "note": "09-03T17:09 3.984e+06 HARAM\u300109-03T17:09 3.984e+06 HARAM\u300109-03T17:23 6.923 S5B",
-      "value": 1340.6162502159004,
-      "unit": 6.78299167002201e-05
-    },
     "robinhood:0x8b3e3ba1a55b939f93f0a205f94520b9468e17f8:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
       "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
       "chain": "robinhood",
