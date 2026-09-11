@@ -1,5 +1,5 @@
 {
-  "run_count": 621,
+  "run_count": 622,
   "last_daily": "2026-09-11",
   "cross_alerted": [],
   "buy_accum": {
@@ -38,6 +38,24 @@
       "note": "09-03T23:40 1.644e+07 ASTEROID\u300109-04T08:39 1.197e+07 TAM\u300109-04T11:14 3.346e+06 ASTEROID",
       "value": 2900.1921820911616,
       "unit": 0.00171
+    },
+    "robinhood:0xc0b3a7340f2daaa12615f31606133bedcef28217:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
+      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
+      "chain": "robinhood",
+      "contract": "0xc0b3a7340f2daaa12615f31606133bedcef28217",
+      "sym": "OPAI",
+      "amount": 3524241.2672734717,
+      "usd": 2411.638299195237,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1789139358,
+      "last": 1789139358,
+      "runs": 1,
+      "funding": 112638.71140017816,
+      "note": "09-04T19:37 9.671 S5B\u300109-05T01:07 4.187 S5B\u300109-05T01:07 1.946e+07 VenusCoin",
+      "value": 2411.638299195237,
+      "unit": 0.0006843000000000001
     }
   },
   "last_daily_cut": 1789138800
