@@ -1,42 +1,42 @@
 {
   "version": 3,
-  "updated": "2026-09-12T12:52:11.663379+00:00",
+  "updated": "2026-09-12T13:42:48.730828+00:00",
   "holdings": {
     "robinhood:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
       "native": {
         "symbol": "ETH",
         "amount": 0.0,
         "contract": "native",
-        "price": 2535.6,
+        "price": 2540.0,
         "usd": 0.0
       },
       "0x7dbf38976f6d3b9c529e7d9484a71898b409ee6a": {
         "symbol": "ZZZ",
         "amount": 15675582.884291248,
         "contract": "0x7dbf38976f6d3b9c529e7d9484a71898b409ee6a",
-        "price": 0.076738,
-        "usd": 1202912.8793747418
+        "price": 0.079623,
+        "usd": 1248136.935995922
       },
       "0x020bfc650a365f8bb26819deaabf3e21291018b4": {
         "symbol": "CASHCAT",
         "amount": 5500000.0,
         "contract": "0x020bfc650a365f8bb26819deaabf3e21291018b4",
-        "price": 0.179239,
-        "usd": 985814.5
+        "price": 0.175744,
+        "usd": 966592.0000000001
       },
       "0xfd82d8db539b6ace0d50815845133767e24f1e18": {
         "symbol": "ASTEROID",
         "amount": 3867575.1453158273,
         "contract": "0xfd82d8db539b6ace0d50815845133767e24f1e18",
-        "price": 0.00831231,
-        "usd": 32148.483556160205
+        "price": 0.00996621,
+        "usd": 38545.06608899805
       },
       "0x0bd7d308f8e1639fab988df18a8011f41eacad73": {
         "symbol": "WETH",
         "amount": 0.022445198677603438,
         "contract": "0x0bd7d308f8e1639fab988df18a8011f41eacad73",
-        "price": 2533.53,
-        "usd": 56.86558420566865
+        "price": 2539.65,
+        "usd": 57.00294882157557
       },
       "0x5cd3da2892b4ad15f110d6ee3a8f635cc0abbb19": {
         "symbol": "KEP",
@@ -56,50 +56,50 @@
         "symbol": "BE",
         "amount": 0.013109976148883627,
         "contract": "0x822cc93ffd030293e9842c30bbd678f530701867",
-        "price": 275.63,
-        "usd": 3.613502725916794
+        "price": 275.77,
+        "usd": 3.6153381225776373
       },
       "0xc48ad687af64a37b7fe85a4953a0a4da203684ed": {
         "symbol": "CAVEHORSE",
         "amount": 26893.0,
         "contract": "0xc48ad687af64a37b7fe85a4953a0a4da203684ed",
-        "price": 0.00012202,
-        "usd": 3.28148386
+        "price": 0.00012016,
+        "usd": 3.23146288
       },
       "0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3": {
         "symbol": "CRWV",
         "amount": 0.03218889424493285,
         "contract": "0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3",
-        "price": 89.39,
-        "usd": 2.877365256554547
+        "price": 89.46,
+        "usd": 2.8796184791516923
       },
       "0x7066a64c24e4206cd62e83bf198c1e7eb361f51e": {
         "symbol": "PFE",
         "amount": 0.0535743491905111,
         "contract": "0x7066a64c24e4206cd62e83bf198c1e7eb361f51e",
-        "price": 27.57,
-        "usd": 1.477044807182391
+        "price": 27.99,
+        "usd": 1.4995460338424056
       },
       "0xe36dc5d02bdbf9601c9aba190411bbc8a6ff425f": {
         "symbol": "UPTOBER",
         "amount": 4450.261780104712,
         "contract": "0xe36dc5d02bdbf9601c9aba190411bbc8a6ff425f",
-        "price": 0.00015788,
-        "usd": 0.7026073298429318
+        "price": 0.00015593,
+        "usd": 0.6939293193717277
       },
       "0x96765066f6a040a21eb027167d2315b707c82633": {
         "symbol": "RVH",
         "amount": 1.0,
         "contract": "0x96765066f6a040a21eb027167d2315b707c82633",
-        "price": 0.00502452,
-        "usd": 0.00502452
+        "price": 0.00541254,
+        "usd": 0.00541254
       },
       "0x0c1ed62d7811e5b437e537ac9d0592469c119c74": {
         "symbol": "DIH",
         "amount": 6.0,
         "contract": "0x0c1ed62d7811e5b437e537ac9d0592469c119c74",
-        "price": 1.991e-05,
-        "usd": 0.00011946
+        "price": 1.997e-05,
+        "usd": 0.00011982
       },
       "0x66cef844f82a461444621f1fcb53efa9ed6dee18": {
         "symbol": "TENOV",
@@ -175,8 +175,8 @@
         "symbol": "Apes",
         "amount": 31149463.195756044,
         "contract": "0xd7fe759504e6009d85a91e18b5b0d7ff64279266",
-        "price": 2.017e-05,
-        "usd": 628.2846726583994
+        "price": 2.051e-05,
+        "usd": 638.8754901449564
       },
       "0xa56981759202e380edfd1c1576b9ee39094f6e69": {
         "symbol": "PONS",
@@ -434,8 +434,8 @@
         "symbol": "INCOME",
         "amount": 6665278.844264867,
         "contract": "0x6cd2628bf8da546b76b1c4a43ce49f25d3140d2a",
-        "price": 8.145e-06,
-        "usd": 54.288696186537344
+        "price": 8.222e-06,
+        "usd": 54.80192265754574
       },
       "0x05e6f85099491a29f593fc4a7416d4853c7a5a8a": {
         "symbol": "PACK",
@@ -819,6 +819,13 @@
         "symbol": "ASTRO",
         "amount": 376870.71360764076,
         "contract": "0x2c99c549a6db2d08f5ce75e2d7281fd7201e541f",
+        "price": null,
+        "usd": null
+      },
+      "0xef06f1bdc11902bd46ee2f3627174c6741d0c8ff": {
+        "symbol": "FoMo",
+        "amount": 320053.0794937987,
+        "contract": "0xef06f1bdc11902bd46ee2f3627174c6741d0c8ff",
         "price": null,
         "usd": null
       },
@@ -1347,12 +1354,19 @@
         "price": null,
         "usd": null
       },
+      "0xd8b7be22c58771c469f425426f6f7a5c21eeea9b": {
+        "symbol": "PUPPA",
+        "amount": 15000.0,
+        "contract": "0xd8b7be22c58771c469f425426f6f7a5c21eeea9b",
+        "price": null,
+        "usd": null
+      },
       "0xf8a73b2db8732956cf88d0690114a4ac91b840ff": {
         "symbol": "COOPER",
         "amount": 15000.0,
         "contract": "0xf8a73b2db8732956cf88d0690114a4ac91b840ff",
-        "price": 0.0002125,
-        "usd": 3.1875
+        "price": null,
+        "usd": null
       },
       "0xde2c4c0940d5c8a11f78ab0f135d24e172ca5e51": {
         "symbol": "Mofo",
@@ -6426,8 +6440,8 @@
         "symbol": "GMERALD",
         "amount": 4835.58994197292,
         "contract": "0x3e4e7bbee9a7e5fbedabeea66313c8f636999458",
-        "price": 0.0003246,
-        "usd": 1.5696324951644098
+        "price": 0.0003078,
+        "usd": 1.488394584139265
       },
       "0x17bce72d52fb2e00ebc95a5d3db8042b67dea62b": {
         "symbol": "WESCAN",
@@ -8197,8 +8211,8 @@
         "symbol": "JUGGERNAUT",
         "amount": 29.0,
         "contract": "0x6b3a8a50f2b7717ba7d0db5298124e16151a9a17",
-        "price": 0.001642,
-        "usd": 0.047618
+        "price": 0.001644,
+        "usd": 0.047676
       },
       "0x73874fc4e8ec217e87d608b2cf5512e85b0e4d0a": {
         "symbol": "HABANAS",
@@ -8575,8 +8589,8 @@
         "symbol": "PEPONS",
         "amount": 11.0,
         "contract": "0xd2a577e92438fd0c1f2485f4fb91b9f866eb1e6c",
-        "price": 0.0007422,
-        "usd": 0.0081642
+        "price": 0.0006725,
+        "usd": 0.0073975
       },
       "0xd6f479de280af6c78e1c1e87974c401776fb2c9c": {
         "symbol": "VODE",
@@ -8746,20 +8760,6 @@
         "price": null,
         "usd": null
       },
-      "0xe22fb7a10cc7ad95ba75cb06d49e58abb87f858c": {
-        "symbol": "ZYN",
-        "amount": 5.0,
-        "contract": "0xe22fb7a10cc7ad95ba75cb06d49e58abb87f858c",
-        "price": null,
-        "usd": null
-      },
-      "0x5fc4fb047ca94ed35eb4adb3e3c6decd93f28e73": {
-        "symbol": "TIBBIR",
-        "amount": 5.0,
-        "contract": "0x5fc4fb047ca94ed35eb4adb3e3c6decd93f28e73",
-        "price": null,
-        "usd": null
-      },
       "0x82dd5073bd5be7f013a9973c1db8fac7def31a5b": {
         "symbol": "INVESTOR",
         "amount": 511411823.6507967,
@@ -8771,8 +8771,8 @@
         "symbol": "PCC",
         "amount": 10.771434222743235,
         "contract": "0xbf3e53713a53e9c3d5d1ddc25dd2c65669244663",
-        "price": 0.005045,
-        "usd": 0.05434188565373962
+        "price": 0.005055,
+        "usd": 0.054449599995967046
       }
     },
     "ethereum:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
@@ -8780,7 +8780,7 @@
         "symbol": "ETH",
         "amount": 0.0,
         "contract": "native",
-        "price": 2535.51,
+        "price": 2538.39,
         "usd": 0.0
       },
       "0x0ca7f70e869f912f5155f104a95f0e16d603227e": {
@@ -8801,15 +8801,15 @@
         "symbol": "UNITY",
         "amount": 7187500000.0,
         "contract": "0xfd0bb211d479710dfa01d3d98751767f51edb2d9",
-        "price": 2.051e-10,
-        "usd": 1.47415625
+        "price": 2.063e-10,
+        "usd": 1.48278125
       },
       "0x53fdca91fd33b9131b5ceade42a3edbd9b38edff": {
         "symbol": "CAT",
         "amount": 1.0,
         "contract": "0x53fdca91fd33b9131b5ceade42a3edbd9b38edff",
-        "price": 0.0006586,
-        "usd": 0.0006586
+        "price": 0.0006598,
+        "usd": 0.0006598
       }
     },
     "base:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
@@ -8817,7 +8817,7 @@
         "symbol": "ETH",
         "amount": 0.0,
         "contract": "native",
-        "price": 2534.42,
+        "price": 2539.32,
         "usd": 0.0
       },
       "0xb2000000000000000000002d0ba3164cc74f58b7": {
@@ -8908,15 +8908,15 @@
         "symbol": "UXOR",
         "amount": 50.0,
         "contract": "0x175378b36f91fc0b108fe98021e99ea798a3a15c",
-        "price": 0.000254,
-        "usd": 0.0127
+        "price": 0.0002551,
+        "usd": 0.012755
       },
       "0x345c77838a623a2128a00509f977a973ce2f5f43": {
         "symbol": "NVDAc",
         "amount": 45.0,
         "contract": "0x345c77838a623a2128a00509f977a973ce2f5f43",
-        "price": 0.0008617,
-        "usd": 0.0387765
+        "price": 0.0008639,
+        "usd": 0.0388755
       },
       "0xed066d39d92bb3a68273c13c6d49248c46f7f788": {
         "symbol": "USOF",
@@ -8929,8 +8929,8 @@
         "symbol": "WOFI",
         "amount": 25.0,
         "contract": "0x889ab79d99481a3203fdaf468b4705b32a834bb1",
-        "price": 0.0006337,
-        "usd": 0.0158425
+        "price": 0.0006338,
+        "usd": 0.015845
       },
       "0xdd47bb5fdbeec9d222cad5fc96ace1400f557eb8": {
         "symbol": "cbXRP",
@@ -9001,15 +9001,15 @@
         "symbol": "BNB",
         "amount": 0.0,
         "contract": "native",
-        "price": 736.52,
+        "price": 735.9,
         "usd": 0.0
       },
       "0x013cae6f4e8971771a30f8d839b3be1a22117777": {
         "symbol": "微软股票",
         "amount": 6.0,
         "contract": "0x013cae6f4e8971771a30f8d839b3be1a22117777",
-        "price": 6.808e-05,
-        "usd": 0.00040848
+        "price": 6.912e-05,
+        "usd": 0.00041472000000000004
       },
       "0x0359ee5efe268f9cf23a00946efa47fbc02a7777": {
         "symbol": "DOGEK",
@@ -9043,8 +9043,8 @@
         "symbol": "LUNA",
         "amount": 141705.187167,
         "contract": "0x156ab3346823b651294766e23e6cf87254d68962",
-        "price": 6.114e-05,
-        "usd": 8.66385514339038
+        "price": 6.125e-05,
+        "usd": 8.67944271397875
       },
       "0x175d59e10b59dc1a31ebe3367a11a353bd81b2f6": {
         "symbol": "aStocks",
@@ -9246,8 +9246,8 @@
         "symbol": "宇树科技",
         "amount": 12.28909608,
         "contract": "0x34b658a2815f2a34c752a051a7c84bbc39b07777",
-        "price": 0.0003678,
-        "usd": 0.004519929538224
+        "price": 0.0003689,
+        "usd": 0.004533447543912
       },
       "0x34c25a675d188bbe9ef950068797185da4517777": {
         "symbol": "SFOLD",
@@ -9316,8 +9316,8 @@
         "symbol": "DOGE",
         "amount": 476.69319931,
         "contract": "0x4206931337dc273a630d328da6441786bfad668f",
-        "price": 0.08493,
-        "usd": 40.4855534173983
+        "price": 0.08496,
+        "usd": 40.499854213377596
       },
       "0x431a3bee82e2ca41e49895cbece5bb0f76a89b7a": {
         "symbol": "AP7B",
@@ -9337,8 +9337,8 @@
         "symbol": "LIGHT",
         "amount": 85.014245,
         "contract": "0x477c2c0459004e3354ba427fa285d7c053203c0e",
-        "price": 0.1651,
-        "usd": 14.0358518495
+        "price": 0.1654,
+        "usd": 14.061356123
       },
       "0x49045354c0f63381f750710a3fdd6cbd611f7777": {
         "symbol": "PLINK",
@@ -9372,8 +9372,8 @@
         "symbol": "SEER",
         "amount": 9.0,
         "contract": "0x4f843e214e7639d7387a9c6122085ea70e7bbad2",
-        "price": 0.004631,
-        "usd": 0.041678999999999994
+        "price": 0.004644,
+        "usd": 0.041796
       },
       "0x56919294f5da7c98713577aea70a1feb8f927777": {
         "symbol": "QQQCAT",
@@ -9393,8 +9393,8 @@
         "symbol": "JACKET",
         "amount": 0.26676524984903766,
         "contract": "0x57aedac0ccaafdec0ec62fc4fbfd8252735affff",
-        "price": 0.0006627,
-        "usd": 0.00017678533107495727
+        "price": 0.0006632,
+        "usd": 0.00017691871369988178
       },
       "0x59b7fdfe794a6abee9de759b5471803dbc4e7777": {
         "symbol": "Rabbit",
@@ -9414,8 +9414,8 @@
         "symbol": "BNB人生",
         "amount": 100.0,
         "contract": "0x5e7318a2e8cc434ecaee5691b7dfe534f2147777",
-        "price": 0.001259,
-        "usd": 0.12589999999999998
+        "price": 0.001255,
+        "usd": 0.1255
       },
       "0x5e8960143d03077d91725943a5f6b3ebd32d7777": {
         "symbol": "中本聪",
@@ -9435,8 +9435,8 @@
         "symbol": "TIMELESS",
         "amount": 3000.0,
         "contract": "0x63a26c936abdd4040c07306b120bc3235e3a7777",
-        "price": 0.0006121,
-        "usd": 1.8362999999999998
+        "price": 0.0006029,
+        "usd": 1.8087
       },
       "0x6a27c83e75e9a57f2e849df997022213a2257777": {
         "symbol": "$BELG",
@@ -9451,6 +9451,13 @@
         "contract": "0x6b8e79acf54e762fea83327fad29afed28b37777",
         "price": null,
         "usd": null
+      },
+      "0x6ba8a419f50e8349af310723f367b52c4c367777": {
+        "symbol": "FCloud",
+        "amount": 73525.0,
+        "contract": "0x6ba8a419f50e8349af310723f367b52c4c367777",
+        "price": 2.238e-05,
+        "usd": 1.6454895
       },
       "0x6c3a480b899c5d70a5f5f45d8ba08db7bc9b1a6b": {
         "symbol": "BARRON",
@@ -9519,15 +9526,15 @@
         "symbol": "XGirl",
         "amount": 100.0,
         "contract": "0x733ec70cf26c6b46dbd0df3acffe7c95f45bc2ab",
-        "price": 7.734e-06,
-        "usd": 0.0007734
+        "price": 8.439e-06,
+        "usd": 0.0008439
       },
       "0x737b66399dfe8dc42703587c58bc70ad6c567777": {
         "symbol": "圣心",
         "amount": 300.0,
         "contract": "0x737b66399dfe8dc42703587c58bc70ad6c567777",
-        "price": 0.001034,
-        "usd": 0.3102
+        "price": 0.001037,
+        "usd": 0.3111
       },
       "0x74690197b36fb7c8f16f9f6633cd10b0293a05f5": {
         "symbol": "AS",
@@ -9575,8 +9582,8 @@
         "symbol": "BAN",
         "amount": 1.0,
         "contract": "0x848e2b1cb00dc439a15b03b8c3194e7d08917777",
-        "price": 0.01157,
-        "usd": 0.01157
+        "price": 0.01185,
+        "usd": 0.01185
       },
       "0x853be5afe3152f593c1770e6b83de7222a297777": {
         "symbol": "SPCX",
@@ -9638,8 +9645,8 @@
         "symbol": "9",
         "amount": 2.0,
         "contract": "0x990c71fdfa761bcf500ac8753f775ff7fb1b4444",
-        "price": 0.003998,
-        "usd": 0.007996
+        "price": 0.003833,
+        "usd": 0.007666
       },
       "0x9b09948ed3edb0ec2a59f9baaa75ebd3e92a7777": {
         "symbol": "VMIND",
@@ -9680,8 +9687,8 @@
         "symbol": "VIRUS",
         "amount": 33.0,
         "contract": "0xa1ed61902f13e162305f59e1b2475e269e647777",
-        "price": 0.001674,
-        "usd": 0.055242
+        "price": 0.001639,
+        "usd": 0.054087
       },
       "0xaa2441ef932e8b53016b6e1c48f1e1893894ef64": {
         "symbol": "TREX",
@@ -9715,8 +9722,8 @@
         "symbol": "一根牙签",
         "amount": 1.0,
         "contract": "0xaf6740d624bb95e022d0e636bf9b76f084217777",
-        "price": 8.557e-05,
-        "usd": 8.557e-05
+        "price": 8.638e-05,
+        "usd": 8.638e-05
       },
       "0xafecd2de13a1bb366d9a5f091d3abc939de27777": {
         "symbol": "fable",
@@ -9743,15 +9750,15 @@
         "symbol": "DOGE",
         "amount": 1420.09050534,
         "contract": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
-        "price": 0.08487,
-        "usd": 120.5230811882058
+        "price": 0.08489,
+        "usd": 120.55148299831258
       },
       "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": {
         "symbol": "WBNB",
         "amount": 0.13836594242519304,
         "contract": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-        "price": 736.52,
-        "usd": 101.90928391500317
+        "price": 735.9,
+        "usd": 101.82349703069956
       },
       "0xbb72f07259e4ba6e4e8f5852a76876688e0e7777": {
         "symbol": "CZBULL",
@@ -9764,8 +9771,8 @@
         "symbol": "天天向上",
         "amount": 5.0,
         "contract": "0xbc622743b3385f67e9164e63036ebc222ccb7777",
-        "price": 7.995e-05,
-        "usd": 0.00039975000000000004
+        "price": 8.002e-05,
+        "usd": 0.00040009999999999997
       },
       "0xbdd1a78406818d7f992016f130e1f624afe1a6df": {
         "symbol": "BSC500",
@@ -9792,8 +9799,8 @@
         "symbol": "羊帆起航",
         "amount": 1.0,
         "contract": "0xc82d112e7ed62880a310a77a62d5a46740bc7777",
-        "price": 0.0001606,
-        "usd": 0.0001606
+        "price": 0.000181,
+        "usd": 0.000181
       },
       "0xc9ff3569b95b95b5f41b37637cc2dd8050304444": {
         "symbol": "LUCZ",
@@ -9806,8 +9813,8 @@
         "symbol": "大红包",
         "amount": 1.4e-17,
         "contract": "0xccb5153c9fdcac74b565d8a1daa8a34852d93eb4",
-        "price": 9.501e-06,
-        "usd": 1.3301399999999999e-22
+        "price": 9.581e-06,
+        "usd": 1.34134e-22
       },
       "0xccd4e7fe71b8664e9fdd9b265a3f64724fa37777": {
         "symbol": "Z",
@@ -9827,8 +9834,8 @@
         "symbol": "BROK",
         "amount": 54211.01421224077,
         "contract": "0xcedfec92cdda4f49541872543c18e97c587a4444",
-        "price": 4.43e-06,
-        "usd": 0.2401547929602266
+        "price": 4.424e-06,
+        "usd": 0.23982952687495318
       },
       "0xcfd4c0094dc70882fc1906646f4b411daf257777": {
         "symbol": "CLINK",
@@ -9869,8 +9876,8 @@
         "symbol": "SLAP",
         "amount": 7777.0,
         "contract": "0xd82f2e48a0c7c90bb38f62d45c8d2096b7ccbfad",
-        "price": 9.222e-05,
-        "usd": 0.71719494
+        "price": 9.174e-05,
+        "usd": 0.7134619799999999
       },
       "0xdcfb441a1f38802820a4e7b4cc8aab37833c7777": {
         "symbol": "FFT",
@@ -9890,8 +9897,8 @@
         "symbol": "支付宝",
         "amount": 3.0,
         "contract": "0xe4ad6d996d5b61b5734afa20c19444b596787777",
-        "price": 0.0001416,
-        "usd": 0.0004248
+        "price": 0.0001442,
+        "usd": 0.0004326
       },
       "0xe7885e88e55b71472368a1ba9ace0966fa657777": {
         "symbol": "CZAI",
@@ -9911,8 +9918,8 @@
         "symbol": "南北绿豆",
         "amount": 1000.0001,
         "contract": "0xe831a8badd383513bf971203c6a1387c099e7777",
-        "price": 2.604e-05,
-        "usd": 0.026040002604000002
+        "price": 2.632e-05,
+        "usd": 0.026320002632
       },
       "0xe844c7c3c936c43fa6ea15b2288d48d891127777": {
         "symbol": "FLUXN",
@@ -9925,8 +9932,8 @@
         "symbol": "拾U人生",
         "amount": 8.8,
         "contract": "0xe87030523f5d33046edd14ccaaae62edfea37777",
-        "price": 6.727e-05,
-        "usd": 0.000591976
+        "price": 6.728e-05,
+        "usd": 0.0005920640000000001
       },
       "0xe8a3cd5334423bd834894fce1a0c407c3a667777": {
         "symbol": "Hardcore",
@@ -9944,7 +9951,7 @@
       },
       "0xe9c7da7bd3f32e2855055adc543f6c2d6c2f1d14": {
         "symbol": "MarsApe",
-        "amount": 0.010000780728100967,
+        "amount": 0.010000780731367655,
         "contract": "0xe9c7da7bd3f32e2855055adc543f6c2d6c2f1d14",
         "price": null,
         "usd": null
@@ -9988,8 +9995,8 @@
         "symbol": "RADR",
         "amount": 0.001,
         "contract": "0xf08d1886e2a69dfabd22a45eed8e1407b338b97e",
-        "price": 0.9346,
-        "usd": 0.0009346000000000001
+        "price": 0.9046,
+        "usd": 0.0009046
       },
       "0xf12162a800cebd3b66c82d84aa9f577a5a5d6789": {
         "symbol": "如鹰展翅上腾",
@@ -10016,8 +10023,8 @@
         "symbol": "天猫",
         "amount": 10.0,
         "contract": "0xf3038d337824d7807912d4b954f74f7f3ceb7777",
-        "price": 9.862e-05,
-        "usd": 0.0009862
+        "price": 0.0001075,
+        "usd": 0.001075
       },
       "0xf31d5c6231b76023af9357fd0699b32a71147777": {
         "symbol": "DROPONLY",
@@ -10037,8 +10044,8 @@
         "symbol": "MarsCoin",
         "amount": 22567339.066418707,
         "contract": "0xfe189e97832da1573e4e4ff034f4ffc3a15c7777",
-        "price": 0.125,
-        "usd": 2820917.3833023384
+        "price": 0.1215,
+        "usd": 2741931.696569873
       },
       "0xfe1a20811aa0c047914d35614d983004ba817777": {
         "symbol": "CATECAT",
@@ -10067,8 +10074,8 @@
         "symbol": "SOL",
         "amount": 0.997622806,
         "contract": "native",
-        "price": 101.92609405517578,
-        "usd": 101.68379595594438
+        "price": 101.82581329345703,
+        "usd": 101.5837535810507
       },
       "JDmA3WA7YvAoFoM7qs9AkrBvXKUDAi7g5go93xNhC2eF": {
         "symbol": "SFLOWX",
@@ -10170,7 +10177,7 @@
       },
       "HF8PqwSatezmXev2mNESQrK71rC3codPZtwbF1Njpump": {
         "symbol": "STEED",
-        "amount": 197.475216,
+        "amount": 239.838502,
         "contract": "HF8PqwSatezmXev2mNESQrK71rC3codPZtwbF1Njpump",
         "price": null,
         "usd": null
@@ -10263,8 +10270,8 @@
         "symbol": "GBOSS",
         "amount": 6009121.319247,
         "contract": "GMbkJzDw68m2GEZhji2vEKXzNHeLf9jNbr763jFikWUF",
-        "price": 3.1333977e-05,
-        "usd": 188.28966920749514
+        "price": 3.107728e-05,
+        "usd": 186.7471457922084
       },
       "GHCTUitpc67dg1tsxbdTuDCZQY4ba5VRbN252AezFZfD": {
         "symbol": "PRB",
@@ -10347,8 +10354,8 @@
         "symbol": "Pistacio",
         "amount": 413.866671,
         "contract": "FZqdw6oSDCbHtKYxmhnfbi97SnyVy8jaYpdCoMrrjKa2",
-        "price": 0.00032610333,
-        "usd": 0.13496329958911443
+        "price": 0.00036604505,
+        "usd": 0.15149384627952855
       },
       "FXLFhwjR6A5sWtswYJsraURMnU1TqQmu2FzxzaQt1WzZ": {
         "symbol": "CGRIN",
@@ -10445,8 +10452,8 @@
         "symbol": "USDC",
         "amount": 1911.765507,
         "contract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "price": 0.9998657,
-        "usd": 1911.50875689241
+        "price": 0.99982226,
+        "usd": 1911.4257097987859
       },
       "EMwrEWzEuCe7Sx212a6iL3ng4RUHWZyx2PquaabBi6dU": {
         "symbol": "L33KP",
@@ -10480,8 +10487,8 @@
         "symbol": "USELESS",
         "amount": 77112.873277,
         "contract": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
-        "price": 0.23990126,
-        "usd": 18499.47546137263
+        "price": 0.23746966,
+        "usd": 18311.967798712278
       },
       "DoEB1onGSGEHz9MCRv7wXtxfXgas7jcJg3xpBe8jpump": {
         "symbol": "NEWT⁠",
@@ -10711,8 +10718,8 @@
         "symbol": "MANIFEST",
         "amount": 46.483156,
         "contract": "BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump",
-        "price": 0.011547823,
-        "usd": 0.5367792579693881
+        "price": 0.011199656,
+        "usd": 0.520595356994336
       },
       "B6GH7iMdv3d5d2MQsb69pikhJUFcR2MDNks7SzTq93Mf": {
         "symbol": "SA1",
@@ -10865,8 +10872,8 @@
         "symbol": "ANSEM",
         "amount": 3.293233,
         "contract": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
-        "price": 0.15008588,
-        "usd": 0.49426777285004
+        "price": 0.14813876,
+        "usd": 0.48785545301108
       },
       "9PuRJUBYeWxmhhAyn7po62bqtT1bFDdNmjF9iaMN8VaJ": {
         "symbol": "XCCXR",
@@ -11024,7 +11031,7 @@
       },
       "7b1piSJHTZyv6gJGySU8iCWi9MjWs5txbi2B5pfBpump": {
         "symbol": "B4B",
-        "amount": 38.074343,
+        "amount": 76.31339,
         "contract": "7b1piSJHTZyv6gJGySU8iCWi9MjWs5txbi2B5pfBpump",
         "price": null,
         "usd": null
@@ -11110,8 +11117,8 @@
         "symbol": "tomochi",
         "amount": 26847418.282185,
         "contract": "6mJoQqcPEjiQ1hFya9oH6NBCQLhvS3mwVQWV9EcTHg9u",
-        "price": 0.0020698693,
-        "usd": 55570.64688655346
+        "price": 0.002079873,
+        "usd": 55839.22040482296
       },
       "6dXrxn1E4K42PJKnByuJgLfppAyiDx3DnUEhVtJC4LF3": {
         "symbol": "SDONP",
@@ -11215,8 +11222,8 @@
         "symbol": "TROLL",
         "amount": 11.826137,
         "contract": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
-        "price": 0.047883276,
-        "usd": 0.5662741819848119
+        "price": 0.047615826,
+        "usd": 0.5631112816441619
       },
       "5SUdbb8n9FkK1hPcrBw31wf5BLQojs2rUhFVtcf4sGjc": {
         "symbol": "USDT",
@@ -11250,8 +11257,8 @@
         "symbol": "RCPEPE2",
         "amount": 3924569.121324,
         "contract": "5ApZBLgSXwnRCSMsonySGgVkh1xz7uigSWAdz2rB4i1H",
-        "price": 2.6713098e-05,
-        "usd": 104.8373995457019
+        "price": 3.0197769e-05,
+        "usd": 118.51323175027512
       },
       "4xciZJmPfdFcVBeDU1DegRmyckF3Td4UapZtbVDbXhfr": {
         "symbol": "VERITASP",
@@ -11446,8 +11453,8 @@
         "symbol": "PUMP",
         "amount": 411.590134,
         "contract": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
-        "price": 0.0036221566,
-        "usd": 1.4908439203629842
+        "price": 0.0035998868,
+        "usd": 1.481677890396831
       },
       "fbJUVG4RkEeHF2na2GTEz6sZDB1KbeWCH47Lv5Frn6o": {
         "symbol": "MEMENOTE",
@@ -11474,22 +11481,22 @@
         "symbol": "MCDx",
         "amount": 0.0028755,
         "contract": "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
-        "price": 253.7213,
-        "usd": 0.7295755981500001
+        "price": 254.8761,
+        "usd": 0.73289622555
       },
       "XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX": {
         "symbol": "MSFTx",
         "amount": 0.00894492,
         "contract": "XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX",
-        "price": 495.16116,
-        "usd": 4.4291769633072
+        "price": 493.22906,
+        "usd": 4.4118944833752005
       },
       "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W": {
         "symbol": "SPYx",
         "amount": 0.01034198,
         "contract": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
-        "price": 765.94257,
-        "usd": 7.921362740088601
+        "price": 766.7582,
+        "usd": 7.9297979692360006
       },
       "VxzXUVAtwrqeUZADBL1KHrgruSWepDVW7TFDC9LmooN": {
         "symbol": "MOON",
@@ -11511,22 +11518,22 @@
         "symbol": "SOL",
         "amount": 1.368380522,
         "contract": "native",
-        "price": 101.92609405517578,
-        "usd": 139.47368178864252
+        "price": 101.82581329345703,
+        "usd": 139.3364595475753
       },
       "H74CYmXgMkYHYuSRsZt6RJb4NYp2u72Vw8BS5huApump": {
         "symbol": "LMAO!",
         "amount": 5000.0,
         "contract": "H74CYmXgMkYHYuSRsZt6RJb4NYp2u72Vw8BS5huApump",
-        "price": 0.001769434,
-        "usd": 8.84717
+        "price": 0.0017559954,
+        "usd": 8.779976999999999
       },
       "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
         "symbol": "USDC",
         "amount": 2270.540882,
         "contract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-        "price": 0.9998657,
-        "usd": 2270.235948359547
+        "price": 0.99982226,
+        "usd": 2270.137316063633
       },
       "Cd4aEjZyVFPKs8Qe8z7U3VDjxdq5kz42Dktnc5kRev1v": {
         "symbol": "ㅤ",
@@ -11539,15 +11546,15 @@
         "symbol": "TOAD",
         "amount": 533.391067,
         "contract": "A13oRB9FFaiUjfi6LdCg6p9ka1u8SfGkUFs4SKvPpump",
-        "price": 0.0027049663,
-        "usd": 1.4428048609560422
+        "price": 0.00270662,
+        "usd": 1.44368692976354
       },
       "6mJoQqcPEjiQ1hFya9oH6NBCQLhvS3mwVQWV9EcTHg9u": {
         "symbol": "tomochi",
         "amount": 10458.676514,
         "contract": "6mJoQqcPEjiQ1hFya9oH6NBCQLhvS3mwVQWV9EcTHg9u",
-        "price": 0.0020698693,
-        "usd": 21.64809343495962
+        "price": 0.002079873,
+        "usd": 21.752718897202723
       },
       "347k5f1WLRYe81roRcLBWDR6k3eCRunaqetQPW6pbonk": {
         "symbol": "LIZARD",
