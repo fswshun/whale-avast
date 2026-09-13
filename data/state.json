@@ -1,5 +1,5 @@
 {
-  "run_count": 827,
+  "run_count": 828,
   "last_daily": "2026-09-12",
   "cross_alerted": [],
   "buy_accum": {
@@ -68,20 +68,20 @@
       "chain": "solana",
       "contract": "F5zC2QoP6j2erxNyf4z6iNCi6X6AkburMC2Xofhxpump",
       "sym": "MDOG",
-      "amount": 12206500.393997,
+      "amount": 18485169.570201002,
       "usd": 0.0,
-      "counter_usd": 5000.0,
-      "n": 1,
+      "counter_usd": 7500.0,
+      "n": 2,
       "other": {
-        "USDC": 5000.0
+        "USDC": 7500.0
       },
       "first": 1789250282,
-      "last": 1789250282,
-      "runs": 1,
+      "last": 1789257859,
+      "runs": 2,
       "funding": 0.0,
       "note": "",
-      "value": 5000.0,
-      "unit": 0.00040961781334631633
+      "value": 7500.0,
+      "unit": 0.0004057306572989391
     }
   },
   "last_daily_cut": 1789225200
