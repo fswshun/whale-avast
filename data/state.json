@@ -1,28 +1,8 @@
 {
-  "run_count": 974,
+  "run_count": 975,
   "last_daily": "2026-09-13",
   "cross_alerted": [],
   "buy_accum": {
-    "solana:F5zC2QoP6j2erxNyf4z6iNCi6X6AkburMC2Xofhxpump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
-      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
-      "chain": "solana",
-      "contract": "F5zC2QoP6j2erxNyf4z6iNCi6X6AkburMC2Xofhxpump",
-      "sym": "MDOG",
-      "amount": 18485169.570201002,
-      "usd": 0.0,
-      "counter_usd": 7500.0,
-      "n": 2,
-      "other": {
-        "USDC": 7500.0
-      },
-      "first": 1789250282,
-      "last": 1789257859,
-      "runs": 2,
-      "funding": 0.0,
-      "note": "",
-      "value": 7500.0,
-      "unit": 0.0004057306572989391
-    },
     "robinhood:0xb57b85ff1dae420ad9abe06cc15fb7748e2e855c:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
       "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
       "chain": "robinhood",
