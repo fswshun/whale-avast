@@ -1,5 +1,5 @@
 {
-  "run_count": 1088,
+  "run_count": 1089,
   "last_daily": "2026-09-14",
   "cross_alerted": [],
   "buy_accum": {
@@ -56,6 +56,26 @@
       "note": "09-07T16:31 2.262e+07 CRC\u300109-07T18:10 30 WBNB\u300109-07T18:18 1.254e+06 BREW",
       "value": 2226.062944840769,
       "unit": 0.00011579999999999998
+    },
+    "solana:CbyTNf7UPzvewHh4Zp6umogM2RWahhmGRJWLJnPwpump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
+      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
+      "chain": "solana",
+      "contract": "CbyTNf7UPzvewHh4Zp6umogM2RWahhmGRJWLJnPwpump",
+      "sym": "biketyson",
+      "amount": 1396215.411186,
+      "usd": 10044.373668072083,
+      "counter_usd": 10001.47048,
+      "n": 1,
+      "other": {
+        "USDC": 10001.47048
+      },
+      "first": 1789410954,
+      "last": 1789410954,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 10001.47048,
+      "unit": 0.007163271798800988
     }
   },
   "last_daily_cut": 1789398000
