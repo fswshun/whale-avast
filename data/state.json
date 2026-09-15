@@ -1,26 +1,8 @@
 {
-  "run_count": 1214,
-  "last_daily": "2026-09-14",
+  "run_count": 1215,
+  "last_daily": "2026-09-15",
   "cross_alerted": [],
   "buy_accum": {
-    "robinhood:0xb240214ed38a215ce3d1a105e4d0d4e84602361c:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
-      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
-      "chain": "robinhood",
-      "contract": "0xb240214ed38a215ce3d1a105e4d0d4e84602361c",
-      "sym": "JERK",
-      "amount": 26855812.288763423,
-      "usd": 865.0257138210698,
-      "counter_usd": 0.0,
-      "n": 1,
-      "other": {},
-      "first": 1789397435,
-      "last": 1789397435,
-      "runs": 1,
-      "funding": 103809.67214463043,
-      "note": "09-07T16:31 2.262e+07 CRC\u300109-07T18:10 30 WBNB\u300109-07T18:18 1.254e+06 BREW",
-      "value": 865.0257138210698,
-      "unit": 3.221e-05
-    },
     "bsc:0x85838ec7ec1819d7db331ca9621ecd5e0d6d7777:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
       "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
       "chain": "bsc",
@@ -80,5 +62,5 @@
       "unit": 0.0012118462688520812
     }
   },
-  "last_daily_cut": 1789398000
+  "last_daily_cut": 1789484400
 }
