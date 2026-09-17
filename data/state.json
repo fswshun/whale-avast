@@ -1,28 +1,7 @@
 {
-  "run_count": 1429,
+  "run_count": 1430,
   "last_daily": "2026-09-16",
   "cross_alerted": [],
-  "buy_accum": {
-    "solana:GY9mZfyPpxXxBXBxS2hB2XjhP3kfUsywTvgveozxpump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
-      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
-      "chain": "solana",
-      "contract": "GY9mZfyPpxXxBXBxS2hB2XjhP3kfUsywTvgveozxpump",
-      "sym": "ELON",
-      "amount": 2515303.729685,
-      "usd": 11940.146804814698,
-      "counter_usd": 13569.779261,
-      "n": 2,
-      "other": {
-        "USDC": 13569.779261
-      },
-      "first": 1789521707,
-      "last": 1789521973,
-      "runs": 1,
-      "funding": 0.0,
-      "note": "",
-      "value": 13569.779261,
-      "unit": 0.005394886947787967
-    }
-  },
+  "buy_accum": {},
   "last_daily_cut": 1789570800
 }
