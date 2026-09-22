@@ -1,7 +1,26 @@
 {
-  "run_count": 2229,
+  "run_count": 2230,
   "last_daily": "2026-09-21",
   "cross_alerted": [],
-  "buy_accum": {},
+  "buy_accum": {
+    "robinhood:0x6713b9f3f0d970028c1d65bb4467c086caa110e4:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
+      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
+      "chain": "robinhood",
+      "contract": "0x6713b9f3f0d970028c1d65bb4467c086caa110e4",
+      "sym": "MOGA",
+      "amount": 232965661.06469804,
+      "usd": 386.9559630284635,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1790070799,
+      "last": 1790070799,
+      "runs": 1,
+      "funding": 8675.484835229872,
+      "note": "09-21T12:39 5e+06 PROMETHEUS\u300109-21T12:40 9.93 S5B\u300109-22T08:58 5000 U",
+      "value": 386.9559630284635,
+      "unit": 1.6610000000000003e-06
+    }
+  },
   "last_daily_cut": 1790002800
 }
