@@ -1,7 +1,26 @@
 {
-  "run_count": 2417,
+  "run_count": 2418,
   "last_daily": "2026-09-23",
   "cross_alerted": [],
-  "buy_accum": {},
+  "buy_accum": {
+    "base:0x1685981068dc0ec45ee1d5a28ef051059e42a0f3:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
+      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
+      "chain": "base",
+      "contract": "0x1685981068dc0ec45ee1d5a28ef051059e42a0f3",
+      "sym": "SPIKE",
+      "amount": 20587443.959430277,
+      "usd": 20107.75651517555,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1790169005,
+      "last": 1790169005,
+      "runs": 1,
+      "funding": 8675.484835229872,
+      "note": "09-21T12:39 5e+06 PROMETHEUS\u300109-21T12:40 9.93 S5B\u300109-22T08:58 5000 U",
+      "value": 20107.75651517555,
+      "unit": 0.0009767
+    }
+  },
   "last_daily_cut": 1790175600
 }
