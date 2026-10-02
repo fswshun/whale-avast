@@ -1,7 +1,26 @@
 {
-  "run_count": 3757,
+  "run_count": 3758,
   "last_daily": "2026-10-02",
   "cross_alerted": [],
-  "buy_accum": {},
+  "buy_accum": {
+    "bsc:0x2c4a0ecb25cf51db87418bdcc3abb612707e4444:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
+      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
+      "chain": "bsc",
+      "contract": "0x2c4a0ecb25cf51db87418bdcc3abb612707e4444",
+      "sym": "AIKOL",
+      "amount": 7514627.299799302,
+      "usd": 8168.399874881841,
+      "counter_usd": 0.0,
+      "n": 1,
+      "other": {},
+      "first": 1790983262,
+      "last": 1790983262,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 8168.399874881841,
+      "unit": 0.001087
+    }
+  },
   "last_daily_cut": 1790953200
 }
