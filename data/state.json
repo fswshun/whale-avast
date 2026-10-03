@@ -1,26 +1,8 @@
 {
-  "run_count": 3902,
+  "run_count": 3903,
   "last_daily": "2026-10-03",
   "cross_alerted": [],
   "buy_accum": {
-    "bsc:0x2c4a0ecb25cf51db87418bdcc3abb612707e4444:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
-      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
-      "chain": "bsc",
-      "contract": "0x2c4a0ecb25cf51db87418bdcc3abb612707e4444",
-      "sym": "AIKOL",
-      "amount": 17129914.622479904,
-      "usd": 16747.159224177474,
-      "counter_usd": 0.0,
-      "n": 2,
-      "other": {},
-      "first": 1790983262,
-      "last": 1790984777,
-      "runs": 2,
-      "funding": 0.0,
-      "note": "",
-      "value": 16747.159224177474,
-      "unit": 0.0009776557322825105
-    },
     "solana:ALJZNv74gj7ABY91h5KNV4Q6tmYar21exy3xg4MJAPpa:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
       "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
       "chain": "solana",
