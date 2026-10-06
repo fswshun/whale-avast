@@ -1,5 +1,5 @@
 {
-  "run_count": 4294,
+  "run_count": 4295,
   "last_daily": "2026-10-06",
   "cross_alerted": [],
   "buy_accum": {
@@ -20,6 +20,24 @@
       "note": "10-03T06:00 7.74 S5B\u300110-03T16:35 1.713e+07 AIKOL\u300110-04T15:33 3.214 S5B",
       "value": 2115.472905457819,
       "unit": 0.0001758
+    },
+    "robinhood:0xa5cc2833de775808b257865547ed23edcecf60db:0xcc0c581613dfd4ace7c8686668427236f8bd5cc5": {
+      "wallet": "0xcc0c581613dfd4ace7c8686668427236f8bd5cc5",
+      "chain": "robinhood",
+      "contract": "0xa5cc2833de775808b257865547ed23edcecf60db",
+      "sym": "FUND",
+      "amount": 5017172.896817018,
+      "usd": 338.3079684323715,
+      "counter_usd": 0.0,
+      "n": 2,
+      "other": {},
+      "first": 1791310002,
+      "last": 1791310186,
+      "runs": 1,
+      "funding": 22175.098184853334,
+      "note": "10-03T06:00 7.74 S5B\u300110-03T16:35 1.713e+07 AIKOL\u300110-04T15:33 3.214 S5B",
+      "value": 338.3079684323715,
+      "unit": 6.743e-05
     }
   },
   "last_daily_cut": 1791298800
