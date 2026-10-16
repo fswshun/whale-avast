@@ -1,5 +1,5 @@
 {
-  "run_count": 5753,
+  "run_count": 5754,
   "last_daily": "2026-10-16",
   "cross_alerted": [],
   "buy_accum": {
@@ -42,6 +42,26 @@
       "note": "",
       "value": 1500.0,
       "unit": 9.001327685161767e-05
+    },
+    "solana:8itqQy8rFf2mdqujSoBJMSNcnfDj2ipsjA4mLb6wpump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
+      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
+      "chain": "solana",
+      "contract": "8itqQy8rFf2mdqujSoBJMSNcnfDj2ipsjA4mLb6wpump",
+      "sym": "IRIS",
+      "amount": 20661550.406871,
+      "usd": 2611.6199714284944,
+      "counter_usd": 3609.0,
+      "n": 1,
+      "other": {
+        "USDC": 3609.0
+      },
+      "first": 1792187202,
+      "last": 1792187202,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 3609.0,
+      "unit": 0.00017467227429359935
     }
   },
   "last_daily_cut": 1792162800
