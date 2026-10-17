@@ -1,5 +1,5 @@
 {
-  "run_count": 5847,
+  "run_count": 5848,
   "last_daily": "2026-10-16",
   "cross_alerted": [],
   "buy_accum": {
@@ -88,20 +88,20 @@
       "chain": "solana",
       "contract": "73PTbCykk1EFCqFYKum4XNMDgsnDDsWJCyWuqpyfpump",
       "sym": "buni",
-      "amount": 21907432.528206,
-      "usd": 4908.849688634598,
-      "counter_usd": 4000.0,
-      "n": 2,
+      "amount": 43260302.854425,
+      "usd": 7103.924758169911,
+      "counter_usd": 5500.0,
+      "n": 3,
       "other": {
-        "USDC": 4000.0
+        "USDC": 5500.0
       },
       "first": 1792191330,
-      "last": 1792193368,
-      "runs": 2,
+      "last": 1792243605,
+      "runs": 3,
       "funding": 0.0,
       "note": "",
-      "value": 4000.0,
-      "unit": 0.0001825864347567871
+      "value": 5500.0,
+      "unit": 0.0001271373438717713
     }
   },
   "last_daily_cut": 1792162800
