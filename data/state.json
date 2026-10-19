@@ -1,5 +1,5 @@
 {
-  "run_count": 6055,
+  "run_count": 6056,
   "last_daily": "2026-10-18",
   "cross_alerted": [],
   "buy_accum": {
@@ -42,6 +42,26 @@
       "note": "",
       "value": 1000.0,
       "unit": 3.200977915452544e-05
+    },
+    "solana:DNEVTVDoyVMjEBk4mXeDXZq2o6vv2yr6fKbjewbupump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
+      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
+      "chain": "solana",
+      "contract": "DNEVTVDoyVMjEBk4mXeDXZq2o6vv2yr6fKbjewbupump",
+      "sym": "gm",
+      "amount": 23009525.290423,
+      "usd": 3380.099265163138,
+      "counter_usd": 1500.0,
+      "n": 1,
+      "other": {
+        "USDC": 1500.0
+      },
+      "first": 1792368112,
+      "last": 1792368112,
+      "runs": 1,
+      "funding": 0.0,
+      "note": "",
+      "value": 1500.0,
+      "unit": 6.519039315532201e-05
     }
   },
   "last_daily_cut": 1792335600
