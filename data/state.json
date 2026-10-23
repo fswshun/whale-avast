@@ -1,28 +1,7 @@
 {
-  "run_count": 6753,
+  "run_count": 6754,
   "last_daily": "2026-10-23",
   "cross_alerted": [],
-  "buy_accum": {
-    "solana:1RjmyJbkSeQFd2fmc2LBhnPF45dSGGBzNGo6bw9pump:8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq": {
-      "wallet": "8xL8S7P4QLdTGRquHas8NP5EVjp2qUGbmSgrkh97mvmq",
-      "chain": "solana",
-      "contract": "1RjmyJbkSeQFd2fmc2LBhnPF45dSGGBzNGo6bw9pump",
-      "sym": "Kimchi",
-      "amount": 45963443.300836,
-      "usd": 10114.370990974887,
-      "counter_usd": 7000.0,
-      "n": 3,
-      "other": {
-        "USDC": 7000.0
-      },
-      "first": 1792666855,
-      "last": 1792701513,
-      "runs": 3,
-      "funding": 0.0,
-      "note": "",
-      "value": 7000.0,
-      "unit": 0.00015229494348767997
-    }
-  },
+  "buy_accum": {},
   "last_daily_cut": 1792767600
 }
